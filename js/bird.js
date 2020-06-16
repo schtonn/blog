@@ -5,7 +5,7 @@ var game = new Phaser.Game(400, 490, Phaser.AUTO, 'game_div'), game_state = {
     };
 game_state.main.prototype = {
     preload: function () {
-        this.game.stage.backgroundColor = '#71c5cf', this.game.load.image('bird', '/blog/images/bird.png'), this.game.load.image('pipe', '/blog/images/pipe.png');
+        this.game.stage.backgroundColor = '#71c5cf', this.game.load.image('bird', '../images/bird.png'), this.game.load.image('pipe', '../images/pipe.png');
     },
     create: function () {
         this.bird = this.game.add.sprite(100, 245, 'bird'), this.bird.body.gravity.y = 1000, this.game.input.keyboard.addKey(Phaser.Keyboard.SPACEBAR).onDown.add(this.jump, this), this.pipes = game.add.group(), this.pipes.createMultiple(20, 'pipe'), this.timer = this.game.time.events.loop(1500, this.add_row_of_pipes, this), this.score = 0;
