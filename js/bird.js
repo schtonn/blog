@@ -18,7 +18,7 @@ game_state.main.prototype = {
         0 == this.bird.inWorld && this.restart_game(), this.game.physics.overlap(this.bird, this.pipes, this.restart_game, null, this);
     },
     jump: function () {
-        this.bird.body.velocity.y = this.bird.body.velocity.y / 2 - 350;
+        this.bird.body.velocity.y = Math.max(this.bird.body.velocity.y / 2 - 350, -400);
     },
     restart_game: function () {
         this.game.time.events.remove(this.timer), this.game.state.start('main');
