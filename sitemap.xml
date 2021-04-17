@@ -65,6 +65,13 @@
   </url>
   
   <url>
+    <loc>https://schtonn.github.io/blog/posts/dinic/</loc>
+    
+    <lastmod>2021-04-17</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://schtonn.github.io/blog/posts/CRT/</loc>
     
     <lastmod>2021-04-17</lastmod>
@@ -73,20 +80,6 @@
   
   <url>
     <loc>https://schtonn.github.io/blog/posts/domino/</loc>
-    
-    <lastmod>2021-04-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://schtonn.github.io/blog/posts/dinic/</loc>
-    
-    <lastmod>2021-04-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://schtonn.github.io/blog/posts/hamilton/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
@@ -107,7 +100,7 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/rabbit/</loc>
+    <loc>https://schtonn.github.io/blog/posts/hamilton/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
@@ -121,7 +114,7 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/tree-link/</loc>
+    <loc>https://schtonn.github.io/blog/posts/rabbit/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
@@ -129,6 +122,13 @@
   
   <url>
     <loc>https://schtonn.github.io/blog/posts/union-find/</loc>
+    
+    <lastmod>2021-04-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://schtonn.github.io/blog/posts/tree-link/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
@@ -172,6 +172,13 @@
   </url>
   
   <url>
+    <loc>https://schtonn.github.io/blog/tags/graph/</loc>
+    <lastmod>2021-04-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://schtonn.github.io/blog/tags/string/</loc>
     <lastmod>2021-04-17</lastmod>
     <changefreq>daily</changefreq>
@@ -186,7 +193,7 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/graph/</loc>
+    <loc>https://schtonn.github.io/blog/tags/struct/</loc>
     <lastmod>2021-04-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -194,13 +201,6 @@
   
   <url>
     <loc>https://schtonn.github.io/blog/tags/other/</loc>
-    <lastmod>2021-04-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://schtonn.github.io/blog/tags/struct/</loc>
     <lastmod>2021-04-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
