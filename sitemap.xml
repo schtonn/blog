@@ -44,13 +44,6 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/rabbit/</loc>
-    
-    <lastmod>2021-04-17</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://schtonn.github.io/blog/posts/CRT/</loc>
     
     <lastmod>2021-04-17</lastmod>
@@ -65,14 +58,7 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/quick-pow/</loc>
-    
-    <lastmod>2021-04-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://schtonn.github.io/blog/posts/num-convert/</loc>
+    <loc>https://schtonn.github.io/blog/posts/dinic/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
@@ -100,14 +86,28 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/dinic/</loc>
+    <loc>https://schtonn.github.io/blog/posts/min-span-tree/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/min-span-tree/</loc>
+    <loc>https://schtonn.github.io/blog/posts/quick-pow/</loc>
+    
+    <lastmod>2021-04-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://schtonn.github.io/blog/posts/num-convert/</loc>
+    
+    <lastmod>2021-04-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://schtonn.github.io/blog/posts/rabbit/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
@@ -193,14 +193,14 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/other/</loc>
+    <loc>https://schtonn.github.io/blog/tags/struct/</loc>
     <lastmod>2021-04-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/struct/</loc>
+    <loc>https://schtonn.github.io/blog/tags/other/</loc>
     <lastmod>2021-04-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
