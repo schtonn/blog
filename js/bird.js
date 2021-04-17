@@ -15,21 +15,21 @@ game_state.main.prototype = {
         });
     },
     update: function () {
-        0 == this.bird.inWorld && this.restart_game(), this.game.physics.overlap(this.bird, this.pipes, this.restart_game, null, this);
+        0 == this.bird.inWorld && this.restart_game(), this.bird.body.gravity.y = this.bird.body.y + 600, this.game.physics.overlap(this.bird, this.pipes, this.restart_game, null, this);
     },
     jump: function () {
-        this.bird.body.velocity.y = Math.max(this.bird.body.velocity.y / 2 - 350, -400);
+        this.bird.body.velocity.y = Math.max(this.bird.body.velocity.y / 2 - 350, -450);
     },
     restart_game: function () {
         this.game.time.events.remove(this.timer), this.game.state.start('main');
     },
-    add_one_pipe: function (t, e) {
-        var i = this.pipes.getFirstDead();
-        i.reset(t, e), i.body.velocity.x = -200, i.outOfBoundsKill = !0;
+    add_one_pipe: function (t, i) {
+        var e = this.pipes.getFirstDead();
+        e.reset(t, i), e.body.velocity.x = -200, e.outOfBoundsKill = !0;
     },
     add_row_of_pipes: function () {
-        for (var t = Math.floor(5 * Math.random()) + 1, e = 0; e < 8; e++)
-            e != t && e != t + 1 && (e != t - 1 || e == t - 1 && Math.random() < 0.6) && this.add_one_pipe(400, 60 * e + 10);
+        for (var t = Math.floor(5 * Math.random()) + 1, i = 0; i < 8; i++)
+            i != t && i != t + 1 && (i != t - 1 || i == t - 1 && Math.random() < 0.6) && this.add_one_pipe(400, 60 * i + 10);
         this.score += 1, this.label_score.content = this.score;
     }
 }, game.state.add('main', game_state.main), game.state.start('main');
