@@ -15,10 +15,10 @@ game_state.main.prototype = {
         });
     },
     update: function () {
-        0 == this.bird.inWorld && this.restart_game(), this.bird.body.gravity.y = this.bird.body.y + 600, this.game.physics.overlap(this.bird, this.pipes, this.restart_game, null, this);
+        0 == this.bird.inWorld && this.restart_game(), this.bird.body.gravity.y = 0.8 * this.bird.body.y + 600, this.game.physics.overlap(this.bird, this.pipes, this.restart_game, null, this);
     },
     jump: function () {
-        this.bird.body.velocity.y = Math.max(this.bird.body.velocity.y / 2 - 350, -450);
+        this.bird.body.velocity.y = Math.max(this.bird.body.velocity.y / 3 + 250 - this.bird.body.gravity.y / 1.5, -450);
     },
     restart_game: function () {
         this.game.time.events.remove(this.timer), this.game.state.start('main');
