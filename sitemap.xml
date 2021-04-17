@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://schtonn.github.io/blog/games/index.html</loc>
+    
+    <lastmod>2021-04-17</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://schtonn.github.io/blog/posts/gen-func/</loc>
     
     <lastmod>2021-04-17</lastmod>
@@ -135,13 +142,6 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/games/index.html</loc>
-    
-    <lastmod>2021-01-02</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://schtonn.github.io/blog/tags/index.html</loc>
     
     <lastmod>2020-04-24</lastmod>
@@ -193,14 +193,14 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/other/</loc>
+    <loc>https://schtonn.github.io/blog/tags/struct/</loc>
     <lastmod>2021-04-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/struct/</loc>
+    <loc>https://schtonn.github.io/blog/tags/other/</loc>
     <lastmod>2021-04-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
