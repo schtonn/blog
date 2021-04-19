@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://schtonn.github.io/blog/posts/rabbit/</loc>
+    
+    <lastmod>2021-04-19</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://schtonn.github.io/blog/posts/fft/</loc>
     
     <lastmod>2021-04-19</lastmod>
@@ -79,13 +86,6 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/rabbit/</loc>
-    
-    <lastmod>2021-04-17</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://schtonn.github.io/blog/posts/CRT/</loc>
     
     <lastmod>2021-04-17</lastmod>
@@ -93,14 +93,7 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/quick-pow/</loc>
-    
-    <lastmod>2021-04-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://schtonn.github.io/blog/posts/num-convert/</loc>
+    <loc>https://schtonn.github.io/blog/posts/dinic/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
@@ -121,7 +114,14 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/dinic/</loc>
+    <loc>https://schtonn.github.io/blog/posts/quick-pow/</loc>
+    
+    <lastmod>2021-04-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://schtonn.github.io/blog/posts/num-convert/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
@@ -172,14 +172,14 @@
 
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/string/</loc>
+    <loc>https://schtonn.github.io/blog/tags/math/</loc>
     <lastmod>2021-04-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/math/</loc>
+    <loc>https://schtonn.github.io/blog/tags/string/</loc>
     <lastmod>2021-04-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -200,14 +200,14 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/other/</loc>
+    <loc>https://schtonn.github.io/blog/tags/struct/</loc>
     <lastmod>2021-04-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/struct/</loc>
+    <loc>https://schtonn.github.io/blog/tags/other/</loc>
     <lastmod>2021-04-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
