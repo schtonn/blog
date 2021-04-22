@@ -107,21 +107,14 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/quick-pow/</loc>
-    
-    <lastmod>2021-04-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://schtonn.github.io/blog/posts/num-convert/</loc>
-    
-    <lastmod>2021-04-17</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://schtonn.github.io/blog/posts/domino/</loc>
+    
+    <lastmod>2021-04-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://schtonn.github.io/blog/posts/dinic/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
@@ -135,7 +128,14 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/dinic/</loc>
+    <loc>https://schtonn.github.io/blog/posts/quick-pow/</loc>
+    
+    <lastmod>2021-04-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://schtonn.github.io/blog/posts/num-convert/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
@@ -193,13 +193,6 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/graph/</loc>
-    <lastmod>2021-04-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://schtonn.github.io/blog/tags/math/</loc>
     <lastmod>2021-04-22</lastmod>
     <changefreq>daily</changefreq>
@@ -208,6 +201,13 @@
   
   <url>
     <loc>https://schtonn.github.io/blog/tags/dp/</loc>
+    <lastmod>2021-04-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://schtonn.github.io/blog/tags/graph/</loc>
     <lastmod>2021-04-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
