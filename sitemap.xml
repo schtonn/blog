@@ -114,14 +114,7 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/quick-pow/</loc>
-    
-    <lastmod>2021-04-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://schtonn.github.io/blog/posts/num-convert/</loc>
+    <loc>https://schtonn.github.io/blog/posts/dinic/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
@@ -142,14 +135,7 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/dinic/</loc>
-    
-    <lastmod>2021-04-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://schtonn.github.io/blog/posts/union-find/</loc>
+    <loc>https://schtonn.github.io/blog/posts/num-convert/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
@@ -157,6 +143,20 @@
   
   <url>
     <loc>https://schtonn.github.io/blog/posts/tree-link/</loc>
+    
+    <lastmod>2021-04-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://schtonn.github.io/blog/posts/quick-pow/</loc>
+    
+    <lastmod>2021-04-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://schtonn.github.io/blog/posts/union-find/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
@@ -193,13 +193,6 @@
 
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/math/</loc>
-    <lastmod>2021-05-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://schtonn.github.io/blog/tags/string/</loc>
     <lastmod>2021-05-01</lastmod>
     <changefreq>daily</changefreq>
@@ -207,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/dp/</loc>
+    <loc>https://schtonn.github.io/blog/tags/math/</loc>
     <lastmod>2021-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -215,6 +208,13 @@
   
   <url>
     <loc>https://schtonn.github.io/blog/tags/graph/</loc>
+    <lastmod>2021-05-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://schtonn.github.io/blog/tags/dp/</loc>
     <lastmod>2021-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
