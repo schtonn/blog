@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://schtonn.github.io/blog/posts/matrix-pow-ext/</loc>
+    
+    <lastmod>2021-05-16</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://schtonn.github.io/blog/posts/domino/</loc>
     
     <lastmod>2021-05-16</lastmod>
@@ -38,13 +45,6 @@
   
   <url>
     <loc>https://schtonn.github.io/blog/posts/matrix-pow-complex/</loc>
-    
-    <lastmod>2021-05-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://schtonn.github.io/blog/posts/matrix-pow-ext/</loc>
     
     <lastmod>2021-05-16</lastmod>
     
@@ -149,13 +149,6 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/num-convert/</loc>
-    
-    <lastmod>2021-04-17</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://schtonn.github.io/blog/posts/quick-pow/</loc>
     
     <lastmod>2021-04-17</lastmod>
@@ -163,7 +156,7 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/tree-link/</loc>
+    <loc>https://schtonn.github.io/blog/posts/num-convert/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
@@ -171,6 +164,13 @@
   
   <url>
     <loc>https://schtonn.github.io/blog/posts/union-find/</loc>
+    
+    <lastmod>2021-04-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://schtonn.github.io/blog/posts/tree-link/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
