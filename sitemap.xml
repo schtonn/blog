@@ -37,13 +37,6 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/combination/</loc>
-    
-    <lastmod>2021-05-16</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://schtonn.github.io/blog/posts/fft/</loc>
     
     <lastmod>2021-05-16</lastmod>
@@ -51,7 +44,7 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/KMP/</loc>
+    <loc>https://schtonn.github.io/blog/posts/combination/</loc>
     
     <lastmod>2021-05-16</lastmod>
     
@@ -59,6 +52,13 @@
   
   <url>
     <loc>https://schtonn.github.io/blog/posts/matrix-pow-complex/</loc>
+    
+    <lastmod>2021-05-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://schtonn.github.io/blog/posts/KMP/</loc>
     
     <lastmod>2021-05-16</lastmod>
     
@@ -149,14 +149,7 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/dinic/</loc>
-    
-    <lastmod>2021-04-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://schtonn.github.io/blog/posts/hamilton/</loc>
+    <loc>https://schtonn.github.io/blog/posts/quick-pow/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
@@ -170,14 +163,14 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/quick-pow/</loc>
+    <loc>https://schtonn.github.io/blog/posts/hamilton/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/posts/tree-link/</loc>
+    <loc>https://schtonn.github.io/blog/posts/dinic/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
@@ -185,6 +178,13 @@
   
   <url>
     <loc>https://schtonn.github.io/blog/posts/union-find/</loc>
+    
+    <lastmod>2021-04-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://schtonn.github.io/blog/posts/tree-link/</loc>
     
     <lastmod>2021-04-17</lastmod>
     
@@ -242,14 +242,14 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/struct/</loc>
+    <loc>https://schtonn.github.io/blog/tags/other/</loc>
     <lastmod>2021-12-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/other/</loc>
+    <loc>https://schtonn.github.io/blog/tags/struct/</loc>
     <lastmod>2021-12-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
