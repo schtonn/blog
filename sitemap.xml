@@ -249,13 +249,6 @@
 
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/math/</loc>
-    <lastmod>2022-07-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://schtonn.github.io/blog/tags/string/</loc>
     <lastmod>2022-07-27</lastmod>
     <changefreq>daily</changefreq>
@@ -263,14 +256,21 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/other/</loc>
+    <loc>https://schtonn.github.io/blog/tags/graph/</loc>
     <lastmod>2022-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/graph/</loc>
+    <loc>https://schtonn.github.io/blog/tags/math/</loc>
+    <lastmod>2022-07-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://schtonn.github.io/blog/tags/other/</loc>
     <lastmod>2022-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
