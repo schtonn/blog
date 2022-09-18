@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://schtonn.github.io/blog/posts/note/</loc>
+    
+    <lastmod>2022-09-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://schtonn.github.io/blog/posts/tarjan/</loc>
     
     <lastmod>2022-07-10</lastmod>
@@ -242,7 +249,7 @@
 
   <url>
     <loc>https://schtonn.github.io/blog</loc>
-    <lastmod>2022-07-27</lastmod>
+    <lastmod>2022-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -250,42 +257,42 @@
   
   <url>
     <loc>https://schtonn.github.io/blog/tags/string/</loc>
-    <lastmod>2022-07-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://schtonn.github.io/blog/tags/graph/</loc>
-    <lastmod>2022-07-27</lastmod>
+    <lastmod>2022-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://schtonn.github.io/blog/tags/math/</loc>
-    <lastmod>2022-07-27</lastmod>
+    <lastmod>2022-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://schtonn.github.io/blog/tags/other/</loc>
-    <lastmod>2022-07-27</lastmod>
+    <lastmod>2022-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://schtonn.github.io/blog/tags/dp/</loc>
-    <lastmod>2022-07-27</lastmod>
+    <lastmod>2022-09-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://schtonn.github.io/blog/tags/graph/</loc>
+    <lastmod>2022-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://schtonn.github.io/blog/tags/struct/</loc>
-    <lastmod>2022-07-27</lastmod>
+    <lastmod>2022-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
