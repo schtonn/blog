@@ -263,14 +263,14 @@
 
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/math/</loc>
+    <loc>https://schtonn.github.io/blog/tags/string/</loc>
     <lastmod>2022-12-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/string/</loc>
+    <loc>https://schtonn.github.io/blog/tags/math/</loc>
     <lastmod>2022-12-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -305,14 +305,14 @@
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/tree/</loc>
+    <loc>https://schtonn.github.io/blog/tags/struct/</loc>
     <lastmod>2022-12-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://schtonn.github.io/blog/tags/struct/</loc>
+    <loc>https://schtonn.github.io/blog/tags/tree/</loc>
     <lastmod>2022-12-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
